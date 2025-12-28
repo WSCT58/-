@@ -37,5 +37,7 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/Counterflow47/bll.git
-   cd bll
+   git clone [repository-url]
+   cd Django-Hexo-Matery
+   pip install -r requirements.txt
+   python main.py
